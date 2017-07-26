@@ -14,5 +14,5 @@ During the five days of GECCO, students will attend to the defined paper/tutoria
 * **Day 6 and Day 7**:
 We will here start a series of presentations (10 m presentation plus 5 m debate with mentors) of the assignments, where every student will summarize his/her work to the mentor panels. Mentors will grade students as they present, to give feedback to students and to allow the identification of the three best works.
 
-I document here the various material provided and that I created during the course of the school.
+I document here the material that was provided by the school and ones that I created during the course of the school.
 In case of queries, write to me at shash at symbol mit dot symbol edu
