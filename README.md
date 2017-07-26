@@ -9,10 +9,10 @@ Ten mentors will make a short self-contained lesson with several topics (connect
   Every mentor will also present one challenge for all students, consisting in attending to one concrete paper (or tutorial) presentation at this GECCO. Students are expected to make an answer to 8 mentor’s questions. The three students with more correct answers will win an award (500, 300, 150 euros) plus a diploma. Ties will be broken by those presenting more one-page summaries of (three) associated papers given by mentors.
 
 * **Day 2 through Day 5**:
-During the five days of GECCO, students will attend to the defined paper/tutorial presentations looking for an answer to the proposed mentor’s challenge. Students can prepare a sound summary of one page on the paper/tutorial for potential ties in the challenge. This is voluntary. Summaries do not replace correct answers to the challenge, but are just used for breaking ties on equal number of answers.
+During the five days of GECCO, students will look for answers to the mentors' challenges by attending various talks. Students can prepare a sound summary of one page on the paper/tutorial for potential ties in the challenge. This is voluntary. Summaries do not replace correct answers to the challenge, but are just used for breaking ties on equal number of answers. Meanwhile, they will also get started with their assignments by getting in touch with their respective mentors.
 
 * **Day 6 and Day 7**:
-We will here start a series of presentations (10 m presentation plus 5 m debate with mentors) of the assignments, where every student will summarize his/her work to the mentor panels. Mentors will grade students as they present, to give feedback to students and to allow the identification of the three best works.
+A series of presentations (10 m presentation plus 5 m debate with mentors) of the assignments will begin, where every student will summarize his/her work to the mentor panels. Mentors will grade students as they present, to give feedback to students and to allow the identification of the three best works.
 
 I document here the material that was provided by the school and ones that I created during the course of the school.
 In case of queries, write to me at shash at symbol mit dot symbol edu
