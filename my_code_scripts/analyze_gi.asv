@@ -1,0 +1,40 @@
+%input data stored in variable x
+clear;
+load x;
+
+% initial config of the experiment
+population  = 30;
+generations = 10;
+
+%baseline values
+baseline_fitness = 1200;
+baseline_lines = [];
+baseline_maxlines = 2222222;
+
+% plot the best fitness score in each generation
+for i=1:generations
+    ind = x(:,1) == i;
+    arr_of_interest = x(ind,:);
+    if isempty(arr_of_interest)
+        results(i,:) = [i;0;0;0;0];
+    else
+        [~, ind1] = max(arr_of_interest(:,3));
+        results(i,:) = arr_of_interest(ind1,:);
+    end
+end
+plot(results(:,3),'-*')
+hold on;
+plot(ones(size(results,1),1).*baseline_fitness,'-*red');
+hold off;
+
+figure;
+plot(results(:,4),'-*')
+hold on;
+plot(ones(size(results,1),1).*baseline_lines,'-*red');
+hold off;
+
+figure;
+plot(results(:,5),'-*')
+hold on;
+plot(ones(size(results,1),1).*baseline_maxlines,'-*red');
+
